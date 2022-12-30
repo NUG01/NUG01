@@ -1,6 +1,5 @@
   👋 Hi, I’m Nugo
-- 👀 I'm interested in coding and biohacking
-- 🌱 I'm currently learning Vue.js && Laravel
+- 👀 I'm Laravel/Vue Full Stack developer
 - 📫 Contact me via nskhiereli@gmail.com
 
 

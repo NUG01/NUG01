@@ -1,7 +1,7 @@
 # NUG01
 
 ## Introduction
-👋 Hi, I’m Nugo. This repository contains config files for my GitHub profile.
+👋 Hi, I’m Nugo, welcome to the jungle.
 
 ## About Me
 - 👀 I'm a Laravel/React Full Stack developer.
